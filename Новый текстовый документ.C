@@ -1,5 +1,6 @@
 #include <iostream>
 namespace std;
-int main{
-	cout << "Hello world";
+int main
+{
+	cout << " world";
 }
